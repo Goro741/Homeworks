@@ -114,5 +114,4 @@
 # list1 = []
 # for i in y:
 #     list1.append(i)
-# print(list1) 
-    
+# print(list1)    
